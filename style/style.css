@@ -1,0 +1,26 @@
+#header .container .my-navbar {
+  background-color: transparent !important;
+}
+
+#header .container .my-navbar .navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+#header .container .my-navbar .navbar-nav .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 15px;
+}
+
+#header .container .my-navbar .navbar-nav .icon select {
+  border: none;
+}
+
+#carousel-section .carousel img {
+  height: 600px;
+}
+/*# sourceMappingURL=style.css.map */

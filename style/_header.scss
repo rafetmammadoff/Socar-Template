@@ -1,0 +1,25 @@
+#header{
+    .container{
+        .my-navbar{
+            background-color: transparent !important;
+            // .navbar-brand{
+                
+
+            // }
+            .navbar-nav{
+                .nav-item{
+                    margin-right: 20px;
+
+                }
+                .icon{
+                    display: flex;
+                    align-items: center;
+                    margin-right: 15px;
+                    select{
+                        border: none;
+                    }
+                }
+            }
+        }
+    }
+}
